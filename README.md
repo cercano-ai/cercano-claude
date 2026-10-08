@@ -4,7 +4,7 @@ Local-first AI co-processor for Claude Code. Offload research, summarization, ex
 
 ## Prerequisites
 
-- [Cercano](https://github.com/cercano-ai/Cercano) installed and on your PATH (`brew install cercano-ai/tap/cercano && cercano setup`)
+- [Cercano](https://github.com/cercano-ai/Cercano) installed and on your PATH (`brew install cercano-ai/cercano/cercano && cercano setup`)
 - [Ollama](https://ollama.com/) running with at least one chat model pulled
 
 ## Install
