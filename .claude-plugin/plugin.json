@@ -6,8 +6,8 @@
     "name": "Bryan Costanich",
     "url": "https://github.com/bryancostanich"
   },
-  "homepage": "https://github.com/bryancostanich/Cercano",
-  "repository": "https://github.com/bryancostanich/cercano-claude",
+  "homepage": "https://github.com/cercano-ai/Cercano",
+  "repository": "https://github.com/cercano-ai/cercano-claude",
   "license": "Apache-2.0",
   "keywords": [
     "local-inference",
